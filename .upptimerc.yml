@@ -4,7 +4,9 @@ repo: Status # The name of this repository
 
 sites:
   - name: Plex
-    url: https://streaming.edithserver.eu
+    check: "tcp-ping"
+    url: streaming.edithserver.eu
+    port: 443
   - name: Mealie
     url: mealie.edithserver.eu
 
