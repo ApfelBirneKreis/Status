@@ -10,13 +10,13 @@
     "uptimeWeek": "0.07%",
     "uptimeMonth": "0.07%",
     "uptimeYear": "0.07%",
-    "time": 254,
-    "timeDay": 254,
-    "timeWeek": 254,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "time": 368,
+    "timeDay": 368,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-12-14": 5
+      "2023-12-14": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "mealie.edithserver.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mealie",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "0.77%",
+    "uptimeDay": "0.77%",
+    "uptimeWeek": "0.77%",
+    "uptimeMonth": "0.77%",
+    "uptimeYear": "0.77%",
+    "time": 635,
+    "timeDay": 635,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-12-14": 5
+      "2023-12-14": 8
     }
   }
 ]
