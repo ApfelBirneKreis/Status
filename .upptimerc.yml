@@ -9,6 +9,10 @@ sites:
     port: 443
   - name: Mealie
     url: mealie.edithserver.eu
+  - name: Chia-Node
+    check: "tcp-ping"
+    url: node.edithserver.eu
+    port: 8444
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
