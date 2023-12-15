@@ -1,7 +1,7 @@
 url: mealie.edithserver.eu
-status: up
-code: 200
-responseTime: 747
-lastUpdated: 2023-12-14T23:13:24.178Z
+status: down
+code: 502
+responseTime: 608
+lastUpdated: 2023-12-15T05:15:28.065Z
 startTime: 2023-12-14T21:22:34.216Z
 generator: Upptime <https://github.com/upptime/upptime>
